@@ -2,7 +2,7 @@ from utils import *
 
 
 def main():
-    list_of_files = get_files_from_folder()
+    list_of_files = get_movies_from_folder()
     print(list_of_files)
 
 
